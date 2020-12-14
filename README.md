@@ -1,3 +1,3 @@
-# Ripple downloads
+# Divvy downloads
 
 This repository is used to hold convenient direct-link downloads.
